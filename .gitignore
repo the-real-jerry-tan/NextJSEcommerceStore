@@ -1,0 +1,18 @@
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# WebStorm project files
+.idea/
+.vscode/

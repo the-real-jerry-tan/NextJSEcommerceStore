@@ -1,0 +1,23 @@
+
+{
+  "name": "nextjs-ecommerce-store",
+  "version": "1.0.0",
+  "description": "A feature-rich SSR eCommerce store built with Next.js, TypeScript, and a mock payment processor.",
+  "main": "pages/index.tsx",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "^4.4.4",
+    "@types/react": "^17.0.0",
+    "@types/node": "^16.11.7"
+  },
+  "author": "Jerry Tan",
+  "license": "MIT"
+}
